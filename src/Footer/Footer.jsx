@@ -9,30 +9,30 @@ function index() {
             <h1 className="font-semibold mb-6 text-gray-600">ABOUT</h1>
             <ul>
               <li>
-                <a href="">Contact Us</a>
+                <a href="/">Contact Us</a>
               </li>
               <li>
-                <a href="">About Us</a>
+                <a href="/">About Us</a>
               </li>
               <li>
-                <a href="">Careers</a>
+                <a href="/">Careers</a>
               </li>
               <li>
-                <a href="">Flipkart Stories</a>
-              </li>
-
-              <li>
-                <a href="">Press</a>
-              </li>
-              <li>
-                <a href="">Flipkart Wholesale</a>
+                <a href="/">Flipkart Stories</a>
               </li>
 
               <li>
-                <a href=" "> Cleartrip </a>
+                <a href="/">Press</a>
               </li>
               <li>
-                <a href="">Corporate Information</a>
+                <a href="/">Flipkart Wholesale</a>
+              </li>
+
+              <li>
+                <a href="/"> Cleartrip </a>
+              </li>
+              <li>
+                <a href="/">Corporate Information</a>
               </li>
             </ul>
           </div>
